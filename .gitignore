@@ -179,3 +179,5 @@ data_dir
 og_qcfractal
 S22-IE*.png
 qcf_server.log
+tmp.py
+df_examples.py
