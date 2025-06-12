@@ -29,5 +29,5 @@ dependencies:
       - qcfractalcompute==0.59
       - qcmanybody
       - cdsg-tools==0.0.2
-      - qm-tools-aw==1.4.5
+      - qm-tools-aw==1.5.0
       - qcmlforge==0.0.8
