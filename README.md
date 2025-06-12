@@ -12,3 +12,6 @@ Activate the environment:
 ```bash
 conda activate p4_qcml
 ```
+
+# Tutorials
+The QCArchive+Psi4+QCMLForge on Cybershuttle is provided in `demo.ipynb`. A local resource version is available as `demo_local.ipynb`.
